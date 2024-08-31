@@ -1,0 +1,85 @@
+#personal {
+  background-color: #5Dd3aa;
+  width: 55%;
+  height: 170px;
+  padding-left: 15px;
+  padding-right: 7px;
+  border: 4px solid black;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+#prior {
+  background-color: crimson;
+  height: 255px;
+  width: 55%;
+  padding-left: 15px;
+  padding-right: 7px;
+  border: 4px solid black;
+  top: 200px;
+  left: 10px;
+  position: absolute;
+}
+
+#swot {
+  background-color:#0dd5f0;
+  width: 30%;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding-left: 15px;
+  padding-right: 7px;
+  border: 4px solid black;
+  height: 270px;
+}
+
+#job {
+  background-color: gold;
+  height: 155px;
+  width: 30%;
+  position: absolute;
+  top: 300px;
+  right: 10px;
+  padding-left: 15px;
+  padding-right: 7px;
+  border: 4px solid black;
+}
+
+#addit {
+  margin-top: 480px;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 150px;
+  background-color: chartreuse;
+  border: 4px solid black;
+  padding-left: 15px;
+  padding-right: 7px;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+ul {
+  font-family: arial;
+  font-size: 10pt;
+}
+
+#order2 {
+  list-style-type:upper-roman;
+  margin-left: -1em;
+}
+
+h3 {
+  font-family: Times;
+  font-style:italic;
+  font-size: 18pt;
+}
+
+p {
+  font-family: Helvetica;
+  font-style: italic;
+  font-size: 11pt;
+}
