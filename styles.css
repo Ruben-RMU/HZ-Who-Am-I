@@ -24,7 +24,7 @@
 
 #swot {
   background-color:#0dd5f0;
-  width: 30%;
+  width: 40%;
   position: absolute;
   top: 10px;
   right: 10px;
@@ -37,7 +37,7 @@
 #job {
   background-color: gold;
   height: 155px;
-  width: 30%;
+  width: 40%;
   position: absolute;
   top: 300px;
   right: 10px;
